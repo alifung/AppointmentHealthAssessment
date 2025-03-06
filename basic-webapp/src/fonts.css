@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Sharp Sans';
+  src: url('../fonts/SharpSansZocDoc-Medium_2128297593.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sharp Sans';
+  src: url('../fonts/SharpSansZocDoc-Semibold_2321215305.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sharp Sans';
+  src: url('../fonts/SharpSansZocDoc-Bold_2376822167.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+} 
