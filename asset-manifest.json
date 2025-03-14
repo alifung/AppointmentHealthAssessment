@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AppointmentAssessment/static/css/main.23c3ebfb.css",
+    "main.js": "/AppointmentAssessment/static/js/main.a685565f.js",
+    "static/js/453.14675b00.chunk.js": "/AppointmentAssessment/static/js/453.14675b00.chunk.js",
+    "static/media/SharpSansZocDoc-Semibold_2321215305.ttf": "/AppointmentAssessment/static/media/SharpSansZocDoc-Semibold_2321215305.e2602d1bb51cab0567bd.ttf",
+    "static/media/SharpSansZocDoc-Bold_2376822167.ttf": "/AppointmentAssessment/static/media/SharpSansZocDoc-Bold_2376822167.55ca018d91c14b7ec7d3.ttf",
+    "static/media/SharpSansZocDoc-Medium_2128297593.ttf": "/AppointmentAssessment/static/media/SharpSansZocDoc-Medium_2128297593.c8dbc24e8f618c390aa0.ttf",
+    "index.html": "/AppointmentAssessment/index.html",
+    "main.23c3ebfb.css.map": "/AppointmentAssessment/static/css/main.23c3ebfb.css.map",
+    "main.a685565f.js.map": "/AppointmentAssessment/static/js/main.a685565f.js.map",
+    "453.14675b00.chunk.js.map": "/AppointmentAssessment/static/js/453.14675b00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c3ebfb.css",
+    "static/js/main.a685565f.js"
+  ]
+}
