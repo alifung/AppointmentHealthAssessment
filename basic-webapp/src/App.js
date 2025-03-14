@@ -215,7 +215,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      <Router basename="/AppointmentAssessment">
         <Routes>
           <Route path="/" element={<StartPage />} />
           <Route path="/loading" element={<LoadingScreen />} />
